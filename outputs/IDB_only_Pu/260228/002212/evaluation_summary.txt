@@ -1,0 +1,12 @@
+VAE Model Evaluation Summary
+==============================
+
+Latent dimension: 32
+Reconstruction Errors (MSE on normalized data):
+  Train: 0.000655
+  Train without augmentation: 0.000457
+  Val:   0.000493
+  Test:  0.000456
+
+ R2  Test Pu:  0.9263421297073364
+
